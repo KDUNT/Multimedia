@@ -1,6 +1,5 @@
-# Multimedia
-Bài tập lớn môn Đa Phương Tiện 
-Giảng viên hướng dấn: TS.Phạm Văn Tiến
+Bài tập lớn môn: Đa Phương Tiện
+Giảng viên hướng dẫn: TS.Phạm Văn Tiến
 Sinh viên: Nguyễn Tử Khánh Dư
 MSSV: 20150732
 Lớp: Điện tử 04
